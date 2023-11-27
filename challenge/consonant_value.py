@@ -11,3 +11,4 @@ def solve(word):
             current_value = 0
 
     return max_value
+
