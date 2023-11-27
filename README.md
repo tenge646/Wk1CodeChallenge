@@ -27,7 +27,6 @@ To use these scripts, you can directly call the functions with appropriate argum
 
 Example:
 
-
 ## Example usage of time_conversion.py
 ```from challenge1.time_conversion import time_conversion
 
@@ -37,8 +36,6 @@ print("Time in 24-hour format:", result)
 ```
 ## How to Run
 Execute the Python scripts by running them directly using Python:
-
-
 `python3 time_conversion.py`        
 `python3 two_positive.py`        
 `python3 consonant_value.py`       
