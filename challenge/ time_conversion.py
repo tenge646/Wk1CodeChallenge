@@ -1,5 +1,3 @@
-
-
 def time_conversion(hour, minute, period):
     if period == "am" and hour == 12:
         hour = 0
